@@ -1,3 +1,3 @@
 # rashi-demo
-This is my first git repository
-Author - Rashi Gupta
+This is my first git repository.
+<br>Author - Rashi Gupta
